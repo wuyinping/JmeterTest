@@ -12,7 +12,8 @@ import org.apache.jmeter.samplers.SampleResult;
 import java.lang.*;
 
 /**
- * @author
+ * @author wuyinping
+ * 需要引入jmeter lib下的所有jar包和lib\ext下面的core和java两个jar
  *
  */
 public class Jtest extends AbstractJavaSamplerClient {
