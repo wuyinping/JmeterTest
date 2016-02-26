@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: C:\apache-jmeter-2.12\lib\ext、ApacheJMeter_java.jar; C:\
+ apache-jmeter-2.12\lib\ext、ApacheJMeter_core.jar;
+Main-Class: test
+
